@@ -2,7 +2,7 @@
 - 👀 I’m interested in start a carreer with front-end development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on companies that are innovative and modern.
-- 📫 How to reach me:
+- 📫 How to reach me: <br/>
 email: lucianoajorge@gmail.com
 Linkedin: https://www.linkedin.com/in/luciano-de-almeida-jorge/
 
