@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on companies that are innovative and modern.
 - 📫 How to reach me: <br/>
-email: lucianoajorge@gmail.com
+Email: lucianoajorge@gmail.com <br/>
 Linkedin: https://www.linkedin.com/in/luciano-de-almeida-jorge/
 
 <!---
